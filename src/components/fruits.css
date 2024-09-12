@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+}
+/* body{
+    margin: 20px;
+} */
+h1{
+    color: red;
+    margin: 20px;
+}
+img{
+    
+    width: 70%;
+    height: 500px;
+}
+p{
+    text-align: justify;
+}
